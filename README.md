@@ -4,4 +4,4 @@ This application includes a classic pomodoro timer with options to change the ti
 
 ![project description](pom_projectphoto.png)
 
-![project_video](app_video.mp4)
+![project_video](app_description.png)
